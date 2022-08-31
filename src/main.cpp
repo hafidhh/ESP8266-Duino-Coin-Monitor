@@ -1,3 +1,13 @@
+/*
+
+  ESP8266 Duino Coin Stats Monitor
+
+  Visit my GitHub :
+  https://github.com/hafidh7/
+  https://github.com/hafidh7/ESP8266-Duino-Coin-Monitor
+
+*/
+
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 #include <Wire.h>
